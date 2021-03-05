@@ -1,6 +1,6 @@
 # Simple Python Flask Dockerized Application
 
-Make sure that `Docker` and `Docker Compose` are installed on your computer. If not, please follow the installation instructions below:
+Make sure that `Docker` and `Docker Compose` are installed on your computer. If not, please follow the installation instructions given in the links below:
 
 - Docker: https://docs.docker.com/engine/install/
 - Docker Compose: https://docs.docker.com/compose/install/
